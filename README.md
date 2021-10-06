@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eLeCtrOssSnake
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning game engine programming
-- 💞️ I’m looking to collaborate on inresting stuff
+- 💞️ I’m looking to collaborate on intresting stuff
 - 📫 How to reach me: email me
 
 <!---
