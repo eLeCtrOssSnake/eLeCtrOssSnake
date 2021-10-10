@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @eLeCtrOssSnake
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning game engine programming
-- 💞️ I’m looking to collaborate on intresting stuff
-- 📫 How to reach me: email me
+# Hello
 
-<!---
-eLeCtrOssSnake/eLeCtrOssSnake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am Leon O aka eLeCtrOssSnake. I am a Software Engineer primarily writing in C and C++(sometimes), primarily focusing on low-level stuff.
+
+## What I do
+
+Games, reverse-engineering, OpenGL etc.
+Lots of projects and small things that never got finished, or didn't make it in there.
+
+### How to contact me
+
+Email me.
